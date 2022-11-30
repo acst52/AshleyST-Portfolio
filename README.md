@@ -1,22 +1,25 @@
 # 02-Challenge-Professional-Portfolio
 
-ACCEPTANCE CRITERIA:
+## Hello again!
 
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
+Welcome to README file #2! Still not sure what these are supposed to contain!
+In this very fun challenge, we built a portfolio page from scratch using only html & CSS. Nostalgic af!
 
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
+## Building a Professional Portfolio Using only HTML & CSS
+### Acceptance Criteria
 
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
+Re: the acceptance criteria, you will notice that:
+ 
+1. My portfolio displays my photo, name, a link to my CV, links to my future projects anchored around images, as well as a contact footer with links to linkedin, github (again), and a fake email and phone number.
+2. When you click a nav link, the UI scrolls to the proper section.
+3. The first application image is larger than the other two.
+4. Clicking project images opens "projects" in a new tab.
+5. The page has a responsive layout and looks good at all common viewport widths, achieved by using flex attributes and @media queries.
 
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
+Below is the social preview when my deployed link is sent via IM:
 
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
+![02-social-preview](https://user-images.githubusercontent.com/116177485/204901183-ff68e2af-c6f8-4075-91d7-4a142e519d5c.png)
 
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
+Please note that I posess a license (unlimited web use) for all assets used.
+
+### Thank you for reading... have a lovely day!
