@@ -12,6 +12,7 @@ body {
 header {
     display: flex;
     margin-right: auto;
+    justify-content: space-between;
 }
 
 header h1 {
