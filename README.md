@@ -1,9 +1,8 @@
-# 02-Challenge-Professional-Portfolio
+# 02-Challenge-Professional-Portfolio: AshleyST-Portfolio
 
 ## Hello again!
 
-Welcome to README file #2! Still not sure what these are supposed to contain!
-In this very fun challenge, we built a portfolio page from scratch using only html & CSS. _Nostalgic af!_
+Welcome to README file #2! In this very fun challenge, we built a portfolio page from scratch using only html & CSS. _Nostalgic!_
 It is hosted by GitHub Pages [here](https://acst52.github.io/02-Challenge-Professional-Portfolio/). 
 
 ## Building a Professional Portfolio Using only HTML & CSS
