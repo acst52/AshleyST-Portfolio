@@ -2,7 +2,9 @@
 margin: 3px;
 padding: 3px;
 }
+/* Above, just setting the margin and padding for all page elements to 3px */
 
+/* setting the body of the page to have a background image, double spaced text and the imported Montserrat font */
 body {
     background-image: url("./Images/Speckled-Bkgrd.jpg");
     font-family: 'Montserrat', sans-serif;
@@ -22,6 +24,7 @@ header h1 {
     float: left;
 }
 
+/* We want our nav bars to flex but leave a little room on the left */
 nav {
     display: flex;
     float: right;
@@ -37,7 +40,8 @@ nav a {
     text-decoration: none;
     text-align: right;
   }
-  
+
+/* hovering over the nav links shows user the pink heart image */
 nav a:hover {
     color: black;
     background-image: url(./Images/heartz.png);
@@ -58,10 +62,12 @@ main {
     align-items: center;
 }
 
+/* making my picture a circle instead of a square */
 .about-me img {
     border-radius: 50%;
 }
 
+/* project card styling is below. We want our project cards to flex wrap */
 .projects {
     font-family: 'Averia Serif Libre', cursive;
     text-align: center;
@@ -100,7 +106,8 @@ p {
     width: 94%;
     padding-right: 10px;
   }
-  
+
+/* first project a bit larger than the rest */
 #project-1 {
     flex: auto;
     background-color: white;
@@ -113,10 +120,12 @@ footer {
     justify-content: space-between;
 }
 
+/* setting our contact icon size */
 #icon {
     max-width: 50px;
 }
 
+/* mobile responsiveness media queries for 750px and 500px viewports */
 @media screen and (max-width: 750px) {
     p {
       font-size: 14px;
