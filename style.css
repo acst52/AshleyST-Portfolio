@@ -108,7 +108,8 @@ p {
   }
 
 /* first project a bit larger than the rest */
-#project-1 {
+#project-1
+#project-2 {
     flex: auto;
     background-color: white;
     max-width: 680px;
